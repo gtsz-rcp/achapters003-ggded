@@ -1,0 +1,62 @@
+{
+  "title": "고깃덩이",
+  "author": "미루",
+  "date": 2018,
+  "content": [
+    {
+      "title": "행운을 빌다",
+      "layout": "lyric",
+      "filename": "wish-luck"
+    },
+    {
+      "title": "넘어진 날",
+      "layout": "lyric",
+      "filename": "head-over-heels"
+    },
+    {
+      "title": "허기",
+      "layout": "lyric",
+      "filename": "hunger"
+    },
+    {
+      "title": "sin 02",
+      "layout": "lyric",
+      "filename": "sin02"
+    },
+    {
+      "title": "이웃의 죽음",
+      "layout": "lyric",
+      "filename": "dead-of-neighbor"
+    },
+    {
+      "title": "sin 01",
+      "layout": "lyric",
+      "filename": "sin01"
+    },
+    {
+      "title": "72",
+      "layout": "lyric",
+      "filename": "72"
+    },
+    {
+      "title": "종착지",
+      "layout": "lyric",
+      "filename": "endpoint"
+    },
+    {
+      "title": "후일담",
+      "layout": "article",
+      "filename": "aftercare"
+    },
+    {
+      "title": "사건의 지평선",
+      "layout": "lyric",
+      "filename": "horizon"
+    },
+    {
+      "title": "캐나다 구스다운",
+      "layout": "article",
+      "filename": "canada"
+    }
+  ]
+}
