@@ -1,5 +1,11 @@
 \documentclass[11pt, b6paper]{memoir}
 \usepackage{kotex}
+\usepackage[breaklinks=true]{hyperref}
+  \hypersetup{colorlinks,%
+    citecolor=blue,%
+    filecolor=blue,%
+    linkcolor=blue,%
+    urlcolor=blue}
 
 \author{미루}
 \title{고깃덩이}
@@ -7,13 +13,23 @@
 
 \begin{document}
   \frontmatter
-  \begin{titlingpage}
-    \maketitle
-  \end{titlingpage}
+    \begin{titlingpage}
+      \maketitle
+    \end{titlingpage}
 
 
   \mainmatter
-
+    \input{./manuscript/latex/wish-luck}
+    \input{./manuscript/latex/head-over-heels}
+    \input{./manuscript/latex/hunger}
+    \input{./manuscript/latex/sin02}
+    \input{./manuscript/latex/dead-of-neighbor}
+    \input{./manuscript/latex/sin01}
+    \input{./manuscript/latex/72}
+    \input{./manuscript/latex/endpoint}
+    \input{./manuscript/latex/aftercare}
+    \input{./manuscript/latex/horizon}
+    \input{./manuscript/latex/canada}
 \appendix
 \backmatter
 \end{document}
