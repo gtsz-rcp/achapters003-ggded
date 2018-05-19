@@ -1,4 +1,8 @@
-\documentclass[11pt, b6paper]{memoir}
+\documentclass[12pt, b6paper, openany]{memoir}
+\usepackage[cm]{fullpage}
+\usepackage[top=1.5cm, bottom=2.2cm, inner=2cm, outer=2.5cm]{geometry} 
+\usepackage{titlesec}
+
 \usepackage{kotex}
 \usepackage[breaklinks=true]{hyperref}
   \hypersetup{colorlinks,%
@@ -6,6 +10,11 @@
     filecolor=blue,%
     linkcolor=blue,%
     urlcolor=blue}
+
+\setsecnumdepth{part}
+\setlength{\beforechapskip}{0pt}
+
+\maxtocdepth{chapter}
 
 \author{미루}
 \title{고깃덩이}
@@ -16,6 +25,7 @@
     \begin{titlingpage}
       \maketitle
     \end{titlingpage}
+    \tableofcontents
 
 
   \mainmatter
