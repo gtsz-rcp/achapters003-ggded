@@ -1,2 +1,8 @@
 *.msi
 BartelbyMachine/
+*.aux
+*.log
+*.pdf
+*.out
+*.synctex.gz
+manuscript/tex/*
