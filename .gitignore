@@ -1,4 +1,5 @@
 *.msi
+BartlebyMachine
 BartlebyMachine/*
 *.aux
 *.log
