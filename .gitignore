@@ -1,0 +1,12 @@
+*.msi
+BartlebyMachine/*
+*.aux
+*.log
+*.pdf
+*.out
+*.synctex.gz
+*.tex
+*.fdb_latexmk
+*.toc
+*.fls
+manuscript/tex/*
