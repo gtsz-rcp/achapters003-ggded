@@ -11,3 +11,5 @@ BartlebyMachine/*
 *.toc
 *.fls
 manuscript/tex/*
+*.ai
+*.jpg
